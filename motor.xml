@@ -1,0 +1,7 @@
+<motors>
+   <motor>
+     <model>AUDI920</model>
+     <fuel-type>Electric</fuel-type>
+     <speed>1230 kmh<speed>
+    </motor>
+</motors>	    
